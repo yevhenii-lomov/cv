@@ -1,7 +1,7 @@
 # Yevhenii Lomov
 ## yehvenii.lomov@gmail.com
 ### https://www.linkedin.com/in/ylomov/
-#### Ukraine, Kharkiv
+#### Poland, Krakow
 
 ## Solution Architect/Software Architect
 
