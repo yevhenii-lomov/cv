@@ -64,14 +64,15 @@ Specialization - Information Systems Analyst
 - Linode
 
 ## Programming languages and technologies
- - The main hard stack is Microsoft technologies. I have been working with almost all .net Microsoft technologies starting from .Net 2, .Net Core, and ending with the newest .Net 6-8.
+ - The main hard stack is Microsoft technologies. I have been working with almost all .net Microsoft technologies starting from .Net 2, .Net Core, and ending with the newest .Net 6-10. Additionally, I have hands-on experience with Python and Java.
  Keywords: 
   asp.net, owin/katana, IIS, asp.net core, kestrel, wcf, windows forms, wpf, wwf, blazor, signalR, windows service, console application, Linq-to-Sql, EF, EF.core, dapper, unit/integration/2e2 testing, nUnit, mocks, stub, etc.
-- One production released project with using Android SDK, Java 6, Android 2.3 
-- One production released project was written on Python 3+, sqlalchemy, structlog, sanic, pytest
+- Production released project with using Android SDK, Java 6, Android 2.3 
+- Production released project was written on Python 3+, sqlalchemy, structlog, sanic, pytest
+- PoC development Java 25
 - JavaScript/HTML/CSS
 - Reverse-engineering, programming by using assembler for x86 by using TASM, MASM
-- Penetration testing: nmap, sqlmap, metasploit, burp, wireshark, bettercap, hashcat, etc.
+- Penetration testing: nmap, nuclei, sliver, sqlmap, metasploit, burp, wireshark, bettercap, hashcat, kali, parrot, etc.
 
 ### Databases 
 - MS SQL Server, MS SSIS/Azure SQL/Cosmos/
@@ -83,7 +84,7 @@ Specialization - Information Systems Analyst
 
 ### DevOps
 - K8S, GKE
-- Terraform, Terragrunt
+- Terraform
 - HELM, Kustomize
 - CI/CD
   - Octopus,
@@ -114,6 +115,19 @@ Specialization - Information Systems Analyst
 
 <details open>
 <summary> Experience </summary>
+
+
+### Solution Architect
+#### FirstStudent, 2 years, 50+ people
+Student transportation management platform. Involved as an architect to drive the design and validation of key platform components.
+- Architecture and design of the performance testing governance and execution stack
+- Creating and validating PoC for critical architectural decisions
+- Performance testing strategy, governance, and execution
+- Architecture guidelines, governance, and documentation writing
+
+**Tools & Technologies**
+</br>
+AWS, React, Java, Microservices, PostgreSQL, DynamoDB, Kafka, AWS API Gateway (WebSockets)
 
 ### Solution Architect
 #### Live Commerce, eBay, 5 months - 1 year of involvement, 15 people
